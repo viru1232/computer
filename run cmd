@@ -1,0 +1,3 @@
+cd Desktop
+g++ -o line line.cpp - lGL -lGLU -lglut
+./line
